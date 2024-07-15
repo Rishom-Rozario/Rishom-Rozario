@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @Rishom-Rozario
-- 👀 I’m interested in HTML, CSS, Javascript
-- 🌱 I’m currently learning React
-- 💞️ I’m looking to collaborate on React/Frontend
-- 📫 How to reach me (Github)
+- 👀 Your average Tailwind + React enjoyer
+- 🌱 Still studying
 
 <!---
 Rishom-Rozario/Rishom-Rozario is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
